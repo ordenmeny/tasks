@@ -17,5 +17,4 @@ def func(N):
     N += 1
     return sum(range(1, N))
 
-
 func(10000000)
